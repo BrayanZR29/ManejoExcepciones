@@ -1,0 +1,11 @@
+tema que dimos..
+- manejo de excepciones
+-tiempo de ejecucion
+-tiempo de compilacion
+- capturar
+- propagar
+- ejemplo de manejo
+-excepciones personalizada
+- codificacion de archivo
+- formato de archivo
+-  mencion de sql
