@@ -4,8 +4,9 @@ tema que dimos..
 -tiempo de compilacion
 - capturar
 - propagar
-- ejemplo de manejo
+- ejemplo de manejo de excepciones
+- tipos de excepciones (checked y unchecked) - (chequeadas y no chequeadas)
 -excepciones personalizada
 - codificacion de archivo
-- formato de archivo
--  mencion de sql
+- formato de intercambio de informacion (json, xml)
+-  mencion de sql (proximamente en semana santa)
