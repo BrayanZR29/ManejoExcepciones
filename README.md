@@ -1,2 +1,2 @@
 # ManejoExcepciones
-- manejor de errores (try-catch-throws)
+- manejor de errores (try-catch-finally-throws)
